@@ -1,3 +1,4 @@
 # LMS
 till sunday - 8/12
-Middleware
+Middleware-- errors 
+so started by deleting whole middleware
